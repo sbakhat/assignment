@@ -1,10 +1,10 @@
 # Python Assignment
 
 Submitted by:
-- **Name:** Bhupendra Shah
-- **Faculty:** BCSIT - Sec - A
+- **Name:** Bakhat Shahi
+- **Faculty:** BCSIT
 - **Semester:** 2nd
-- **College:** KFA 
+- **Section:** A 
 
 ## Overview
 This assignment demonstrates my understanding of Python programming fundamentals through practical implementation. It includes two sets of programs:
@@ -12,30 +12,6 @@ This assignment demonstrates my understanding of Python programming fundamentals
 - Set B implements advanced problem-solving techniques using algorithms and data structures
 
 All programs are interactive and include proper error handling and user input validation.
-
-### Set A: Basic Programs
-1. Calculator - Does basic math operations
-2. Binary Converter - Changes numbers to binary form
-3. Age Group Finder - Tells if someone is minor/adult/senior
-4. Number Swapper - Swaps two numbers
-5. Fibonacci Series - Shows first 10 Fibonacci numbers
-6. Prime Checker - Tests if a number is prime
-7. Sum Verifier - Checks if two numbers add up to third
-8. Factorial Calculator - Finds factorial of a number
-9. Division Program - Safely divides numbers
-10. Maximum Finder - Finds biggest number in a list
-11. Greeting Program - Shows name and age
-12. Vowel Counter - Counts vowels in text
-13. Multiplication Table - Shows times table
-14. Triangle Pattern - Makes star triangle
-15. Pyramid Pattern - Makes star pyramid
-
-### Set B: 
-1. Palindrome Number - Checks if number reads same both ways
-2. Single Number - Finds non-repeated number
-3. Two Sum - Finds number pairs that add to target
-4. Happy Number - Special number sequence checker
-5. Duplicate Finder - Checks for repeated numbers
 
 ## How to Run
 1. Open `Assignment.ipynb` in Jupyter Notebook
